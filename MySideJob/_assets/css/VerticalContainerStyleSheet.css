@@ -1,0 +1,17 @@
+﻿
+.vertical . ajax__tab_header {
+    float:left;
+}
+.vertical . ajax__tab_body {
+    /*float:left;*/
+    margin-left:220px;
+}
+.vertical . ajax__tab_outer {
+    display:block !important;
+}
+.vertical . ajax__tab_tab{
+    /*min-width:200px;*/
+    width:200px;
+    height:auto !important;
+}
+
